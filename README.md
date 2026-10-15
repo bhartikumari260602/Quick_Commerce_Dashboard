@@ -3,6 +3,14 @@
 # Overview
 This is an end-to-end **Quick Commerce Operations & Sales Dashboard** built in **Power BI** to monitor business performance, delivery operations, and dark store efficiency. The project focuses on operational KPIs like delivery time, SLA breaches, and profitability for a 10-minute delivery model.
 
+
+ 📁 Files in this Repository
+- <a href="https://github.com/bhartikumari260602/Quick_Commerce_Dashboard/blob/main/Quick%20commerce%20Dashboard.pbix">Cleaned Dataset view</a>
+- <a href="<img width="770" height="401" alt="Quick Commerce Dashboard" src="https://github.com/user-attachments/assets/274b5047-7f88-4140-8f10-fc1668d196bb" />
+">Dashboard view</a>
+- <a href="<C:\Users\ggggyyygyg\Desktop\Pojectsb" />
+">Raw Dataset view</a>
+
 ![Dashboard Preview]<img width="770" height="401" alt="Quick Commerce Dashboard" src="https://github.com/user-attachments/assets/28668225-f5e0-4dbb-b7fc-1e8a7f9ec2b9" />
 
 
