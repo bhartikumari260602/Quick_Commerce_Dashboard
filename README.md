@@ -58,12 +58,6 @@ Quick Commerce companies need to track not just sales, but also **delivery speed
 - **Concepts Used:** DAX Measures, Data Modeling, Star Schema, KPI Cards, Donut & Bar Charts, Conditional Formatting
 - **Data Cleaning:** Power Query Editor
 
-# 📁 Repository Files
-- Raw Dataset <a href="https://github.com/bhartikumari260602/Quick_Commerce_Dashboard/blob/main/Raw_Data_Quick_Commerce_PowerBI_Project.xlsx"> 
-  
-- [`Quick_Commerce_Dashboard.pbix`](https://github.com/bhartikumari260602/Quick_Commerce_Dashboard/blob/main/Quick%20commerce%20Dashboard.pbix) - Power BI Dashboard File
-
-- Dashboard Preview - <a href="https://github.com/bhartikumari260602/Quick_Commerce_Dashboard/blob/main/Quick%20Commerce%20Dashboard.png">
 
 # 🚀 How to Use
 1. Download the `.pbix` file
